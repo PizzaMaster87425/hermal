@@ -101,7 +101,7 @@ specs = {
 
     'Version': 'V1 Color',
     'DOVR': '03142026',
-    'Build Number': '0002A',
+    'Build Number': '0003A',
 }
 
 def is_connected():
